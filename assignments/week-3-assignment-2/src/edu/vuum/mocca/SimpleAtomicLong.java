@@ -30,7 +30,6 @@ class SimpleAtomicLong
      */
     public SimpleAtomicLong(long initialValue)
     {
-        long value = 0;
         // TODO - you fill in here
     }
 
